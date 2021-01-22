@@ -1,0 +1,13 @@
+{
+  "name": "camera-js",
+  "version": "0.0.1",
+  "description": "Video capture for node js",
+  "main": "camera.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "author": "Jasper Vander Velden <jasper.vv@gmail.com>",
+  "license": "MIT",
+  "gypfile": true
+}
